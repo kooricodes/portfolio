@@ -61,7 +61,7 @@ const Hero = () => {
               <span className="stat-label">Specializations</span>
             </div>
           </div>
-                 <div className="hero-scroll">
+                 <div className="hero-scroll" style="float: left;">
         <span>Scroll to explore</span>
         <div className="scroll-indicator">
           <div className="scroll-dot"></div>
