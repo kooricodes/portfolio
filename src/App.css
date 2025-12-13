@@ -1,0 +1,12 @@
+.App {
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+main {
+  width: 100%;
+}
+
