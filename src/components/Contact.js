@@ -103,13 +103,13 @@ const Contact = () => {
             <div className="info-card">
               <h3>Social Links</h3>
               <div className="social-links">
-                <a href="https://github.com" className="social-link github" title="GitHub" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/kooricodes" className="social-link github" title="GitHub" target="_blank" rel="noopener noreferrer">
                   <span>GitHub</span>
                 </a>
-                <a href="https://linkedin.com" className="social-link linkedin" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/thomas-njue-331a01289/" className="social-link linkedin" title="LinkedIn" target="_blank" rel="noopener noreferrer">
                   <span>LinkedIn</span>
                 </a>
-                <a href="https://twitter.com" className="social-link twitter" title="Twitter" target="_blank" rel="noopener noreferrer">
+                <a href="https://x.com/buildwithkoori" className="social-link twitter" title="Twitter" target="_blank" rel="noopener noreferrer">
                   <span>Twitter</span>
                 </a>
               </div>
